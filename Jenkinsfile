@@ -1,5 +1,5 @@
 pipeline {
-    agent any {
+    agent any 
         environment {
   environment  = "019523160407.dkr.ecr.ap-south-1.amazonaws.com/htmlpage"
 }
